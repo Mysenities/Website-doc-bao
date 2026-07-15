@@ -1,0 +1,86 @@
+--note gợi ý bài viết--
+
+Chuyên mục/hashtag bài viết hiện tại -> Tìm top 3 -> trả kết quả
+
+Các chuyên mục lọc:
+-Thời sự
+-Thế giới
+-Kinh doanh
+-Thể thao
+-Đời sống
+-Khoa học công nghệ
+-Pháp luật
+-Du lịch
+
+các hashtag:
+# Thoi su
+#thoisu
+#tintuc24h
+#tinmoi
+#breakingnews
+#hotnews
+#newsupdate
+
+# The gioi
+#thegioi
+#tinquocte
+#thoisuthegioi
+#worldnews
+#globalnews
+#international
+
+# Kinh doanh
+#kinhdoanh
+#taichinh
+#khoinghiep
+#businessnews
+#finance
+#startup
+
+# The thao
+#thethao
+#bongda
+#thethaovietnam
+#sportsnews
+#footballnews
+#matchday
+
+# Doi song
+#doisong
+#giadinh
+#suckhoe
+#lifestyle
+#familylife
+#healthyliving
+
+# Khoa hoc cong nghe
+#congnghe
+#khoahoc
+#congnghemoi
+#chuyendoiso
+#technews
+#futuretech
+#artificialintelligence
+#digitaltransformation
+
+# Phap luat
+#phapluat
+#anrinh
+#phapluatdoisong
+#lawnews
+#legalupdate
+#securitynews
+
+# Du lich
+#dulich
+#dulichvietnam
+#kinhnghiemdulich
+#travelnews
+#vietnamtravel
+#traveltips
+
+
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)
+...

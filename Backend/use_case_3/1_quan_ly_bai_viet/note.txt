@@ -1,0 +1,86 @@
+--note quản lý bài viết--
+
+5.Quản lý bài viết(báo)   - Xem danh sách nháp đã tạo
+                            - Gửi bài (để staff duyệt)
+                            - Xóa nháp
+                            - Tạo mới nháp
+                            - Duyệt bài
+
+chọn các chuyên mục:
+-Thời sự
+-Thế giới
+-Kinh doanh
+-Thể thao
+-Đời sống
+-Khoa học công nghệ
+-Pháp luật
+-Du lịch
+
+
+
+chọn các hashtag:
+# Thoi su
+#thoisu
+#tintuc24h
+#tinmoi
+#breakingnews
+#hotnews
+#newsupdate
+
+# The gioi
+#thegioi
+#tinquocte
+#thoisuthegioi
+#worldnews
+#globalnews
+#international
+
+# Kinh doanh
+#kinhdoanh
+#taichinh
+#khoinghiep
+#businessnews
+#finance
+#startup
+
+# The thao
+#thethao
+#bongda
+#thethaovietnam
+#sportsnews
+#footballnews
+#matchday
+
+# Doi song
+#doisong
+#giadinh
+#suckhoe
+#lifestyle
+#familylife
+#healthyliving
+
+# Khoa hoc cong nghe
+#congnghe
+#khoahoc
+#congnghemoi
+#chuyendoiso
+#technews
+#futuretech
+#artificialintelligence
+#digitaltransformation
+
+# Phap luat
+#phapluat
+#anrinh
+#phapluatdoisong
+#lawnews
+#legalupdate
+#securitynews
+
+# Du lich
+#dulich
+#dulichvietnam
+#kinhnghiemdulich
+#travelnews
+#vietnamtravel
+#traveltips

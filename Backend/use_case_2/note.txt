@@ -1,0 +1,15 @@
+use case 2 gồm 
+
+5 folder
+
+1 binh luan
+2_bo_Ioc_tim_kiem
+3_quan_Iy_tai_khoan
+4_goi_y_bai_viet_lien_quan
+5_quan_ly_thac_mac
+
+
++khách có tài khoản:        Full tính năng
++Khách không có tài khoản:  Cắt tính năng 
+                            + Bình luận
+                            + Quản lý tài khoản

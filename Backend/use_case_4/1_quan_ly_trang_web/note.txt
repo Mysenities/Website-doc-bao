@@ -1,0 +1,15 @@
+--note quản lý trang web--
+
+có 3 tính năng  
+
+Tạo tài khoản nhân viên
+
+Sửa thông tin tài khoản nhân viên
+
+Xóa tài khoản toàn hệ thống
+
+Khóa tài khoản toàn hệ thống
+
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)

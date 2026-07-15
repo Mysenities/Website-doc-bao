@@ -1,0 +1,13 @@
+--note tính năng bình luận--
+
+Bình luận bao gồm 3 tính năng
+
+ 1.Đánh giá bài viết (chấm 1-10 sao cho bài viết)
+                  2.Đánh giá bình luận (cho 1 like/dislike bình luận)
+                  3.Báo cáo vi phạm  
+                  
+-> Cả 3 đều cần kết nối Database
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)
+...

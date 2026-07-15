@@ -1,0 +1,8 @@
+--note xử lý thắc mắc--
+
+có 1 tính năng  + Hiện danh sách thắc mắc gửi tới
+                + rep thắc mắc
+
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)

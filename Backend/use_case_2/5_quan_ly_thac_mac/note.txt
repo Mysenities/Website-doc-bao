@@ -1,0 +1,8 @@
+--note quản lý thắc mắc--
+
+có 3 tính năng  + Hiện danh sách thắc mắc từng gửi
+                + Gửi thắc mắc(giới hạn 1 thắc mắc/acc)
+                + Kháng cáo
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)

@@ -1,0 +1,25 @@
+--note quản lý tài khoản--
+
+có 5 tính năng
+
+1.Xem lịch sử               -lịch sử bình luận
+                            -lịch sử thông báo
+
+2.Xem hồ sơ cá nhân         -Chỉnh sửa thông tin tài khoản
+
+3.Quản lý theo dõi          - Xem danh sách tác giả đang theo dõi
+                            - Hủy theo dõi tác giả
+                            - Tìm kiếm tác giả
+                            - Theo dõi tác giả(Trong khi Tìm kiếm tác giả)
+
+4.Xóa tài khoản bản thân(chỉ với tk khách)
+
+5.Quản lý bài viết(forum)   - Xem danh sách nháp đã tạo
+                            - Gửi bài (để staff duyệt)
+                            - Xóa nháp
+                            - Tạo mới nháp
+
+
+Các trang frontend sử dụng chức năng trên:
+ví dụ: trang_bai_viet(link)
+...

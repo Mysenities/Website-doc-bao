@@ -1,0 +1,12 @@
+backend gồm 
+
+4 folder
+
+
+use case 2:     +khách có tài khoản
+                +Khách không có tài khoản
+
+use case 3:     +nhân viên(staff)  
+                +tác giả            
+
+use case 4:     +Quản trị viên(admin)
